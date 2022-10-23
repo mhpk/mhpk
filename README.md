@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  
 
-<!--
-**mhpk/mhpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: `wspooks@proton.me`
+
+
+Discord: `Spooks#3037` (430387492005347329)
+  
+![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=Spooksmn&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+ 
+![Spooksmn github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Spooksmn&layout=compact&theme=dark&hide_border=true)
+ 
+ <div>
