@@ -14,5 +14,5 @@ Discord: `Spooks#3037` (430387492005347329)
  <div>
 
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/588685328068378636)](https://discord.com/users/588685328068378636)
+[![Discord Presence](https://lanyard.cnrad.dev/api/588685328068378636)](https://discord.com/users/430387492005347329)
 
