@@ -12,7 +12,3 @@ Discord: `Spooks#3037` (430387492005347329)
 ![Spooksmn github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mhpk&layout=compact&theme=dark&hide_border=true)
 
  <div>
-
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/430387492005347329)](https://discord.com/users/430387492005347329)
-
