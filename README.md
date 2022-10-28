@@ -1,7 +1,6 @@
 Contact me:
 
 
-Email: `wspooks@proton.me`
 Email: `mhpk@proton.me`
 
 
