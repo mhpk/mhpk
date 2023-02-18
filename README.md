@@ -4,7 +4,7 @@ Contact me:
 Email: `mhpk@proton.me`
 
 
-Discord: `spooks#3037` (430387492005347329)
+Discord: `kkkllkiiii00;;#2168` (430387492005347329)
   
 ![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=mhpk&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
  
